@@ -157,6 +157,6 @@ administrador, y faltar el runtime de Visual C++.
 
 ---
 
-*Rainbow Six Siege · Actualizado 2026-11-13 · Compartido bajo licencia MIT*
+*Rainbow Six Siege · Actualizado 2026-11-14 · Compartido bajo licencia MIT*
 
-<!-- rev 2026-11-13 -->
+<!-- rev 2026-11-14 -->
